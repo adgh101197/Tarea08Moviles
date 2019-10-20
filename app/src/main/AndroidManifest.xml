@@ -20,9 +20,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".RegisterActivity">
-        </activity>
-        <activity android:name=".ActivitySaveInParse"></activity>
+        <activity android:name=".RegisterActivity"></activity>
+        <activity android:name=".ActivityMain"></activity>
     </application>
 
 </manifest>
